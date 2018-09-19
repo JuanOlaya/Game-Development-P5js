@@ -1,4 +1,4 @@
-# Game development with p5.js ( + Processing ) using Object-Oriented Programming 
+# Game Development with p5.js ( + Processing ) using Object-Oriented Programming 
 
 SOURCE CODE EDITOR
   p5js editor
