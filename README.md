@@ -9,7 +9,7 @@
   Primitives Movement
   Buttons and screen
   
-## OBJECT-ORIENTED PROGRAMMING FOR GAME DEVELOPMENT
+## OBJECT-ORIENTED PROGRAMMING (OOP) FOR GAME DEVELOPMENT
   
   Class Car
   Class Ball
