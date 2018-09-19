@@ -1,44 +1,47 @@
 # Game Development with p5.js ( + Processing ) using Object-Oriented Programming 
 
-SOURCE CODE EDITOR
-  p5js editor
+## INTRODUCCION
+
+  p5js web editor
   Open an account
   HTML structure
-  
-  INTRODUCCION 
   Character Design
   Primitives Movement
   Buttons and screen
   
-  OBJECT-ORIENTED PROGRAMMING STEPS
+## OBJECT-ORIENTED PROGRAMMING FOR GAME DEVELOPMENT
+  
   Class Car
   Class Ball
-  
-  ENTORNO
-  Matrix
   Obstacles
+  Class Bullet
   
-  GAME MECHANICS
+## ENTORNO
+  Matrix
+  
+  
+## GAME MECHANICS
+  
   Collision Detection
   Player movements (Delays)
   Bullet (Delays)
   Moving the camera (translate)
   
-  STORAGE
+## STORAGE
+  
   JSON
   ORDENAMIENTO DE TABLA DE JUGADORES (Bubble Sort??)
   
-  MULTIPLAYER
+## MULTIPLAYER
   OSCP5??
   Sockets??
   
-  DESIGN AND EXAMPLES
-  Diagrama de clases
+
   
-  PROJECT DEVELOPMENT
+## PROJECT DEVELOPMENT
   Requirements Elicitation
   Iterativo
   Tests
   
-  PUBLICANDO
+## VIDEO GAME PUBLISHING
   Itch.io
