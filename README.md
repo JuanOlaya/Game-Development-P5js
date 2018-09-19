@@ -1,6 +1,6 @@
-# Game Development with p5.js ( + Processing ) using Object-Oriented Programming 
+# GAME DEVELPMENT WITH p5.js ( + Processing) USING OBJECT-ORIENTED PROGRAMMING
 
-## INTRODUCCION
+## INTRODUCCTON
 
   p5js web editor
   Open an account
