@@ -1,6 +1,7 @@
-# GAME DEVELPMENT WITH p5.js ( + Processing) USING OBJECT-ORIENTED PROGRAMMING
+# Game Development with p5.js (+Processing) 
+## Index
 
-## INTRODUCCTON
+## INTRODUCCTION
 
   p5js web editor
   Open an account
@@ -19,7 +20,6 @@
 ## ENTORNO
   Matrix
   
-  
 ## GAME MECHANICS
   
   Collision Detection
@@ -28,15 +28,12 @@
   Moving the camera (translate)
   
 ## STORAGE
-  
   JSON
   ORDENAMIENTO DE TABLA DE JUGADORES (Bubble Sort??)
   
 ## MULTIPLAYER
   OSCP5??
   Sockets??
-  
-
   
 ## PROJECT DEVELOPMENT
   Requirements Elicitation
