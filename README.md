@@ -17,7 +17,7 @@
   Obstacles
   Class Bullet
   
-## ENTORNO
+### ENTORNO
   Matrix
   
 ### GAME MECHANICS
@@ -31,14 +31,14 @@
   JSON
   ORDENAMIENTO DE TABLA DE JUGADORES (Bubble Sort??)
   
-## MULTIPLAYER
+### MULTIPLAYER
   OSCP5??
   Sockets??
   
-## PROJECT DEVELOPMENT
+### PROJECT DEVELOPMENT
   Requirements Elicitation
   Iterativo
   Tests
   
-## VIDEO GAME PUBLISHING
+### VIDEO GAME PUBLISHING
   Itch.io
