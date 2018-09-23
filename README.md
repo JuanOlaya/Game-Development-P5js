@@ -12,7 +12,7 @@
   
 ### OBJECT-ORIENTED PROGRAMMING (OOP) FOR GAME DEVELOPMENT
   
-  [Object-Oriented Programming (OOP) for Game Development with p5.js](https://github.com/JuanOlaya/OOP-P5js) 
+  Chapter [Object-Oriented Programming (OOP) for Game Development with p5.js](https://github.com/JuanOlaya/OOP-P5js) 
   Class Car
   Class Ball
   Obstacles
@@ -36,8 +36,8 @@
   OSCP5??
   Sockets??
   
-### PROJECT DEVELOPMENT
-  [Software Engineering for Game Development using p5js](https://github.com/JuanOlaya/Software-Engineering) Requirements Elicitation
+### AGILE PROJECT DEVELOPMENT
+  Chapter [Software Engineering for Game Development using p5js](https://github.com/JuanOlaya/Software-Engineering) Requirements Elicitation
   Iterativo
   Tests
   
