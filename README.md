@@ -1,7 +1,7 @@
 # Game Development with p5.js (+Processing) 
 ## Index
 
-## INTRODUCCTION
+### INTRODUCCTION
 
   p5js web editor
   Open an account
@@ -10,7 +10,7 @@
   Primitives Movement
   Buttons and screen
   
-## OBJECT-ORIENTED PROGRAMMING (OOP) FOR GAME DEVELOPMENT
+### OBJECT-ORIENTED PROGRAMMING (OOP) FOR GAME DEVELOPMENT
   
   Class Car
   Class Ball
@@ -20,14 +20,14 @@
 ## ENTORNO
   Matrix
   
-## GAME MECHANICS
+### GAME MECHANICS
   
   Collision Detection
   Player movements (Delays)
   Bullet (Delays)
   Moving the camera (translate)
   
-## STORAGE
+### Data Storage with JSON
   JSON
   ORDENAMIENTO DE TABLA DE JUGADORES (Bubble Sort??)
   
