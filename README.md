@@ -1,3 +1,9 @@
+<p align="center">
+  <a>
+    <img src="Images/Maze.png" width=350 height=190>
+  </a>
+</p>
+
 # Game Development with p5.js (work in progress)
 ## Index
 
