@@ -42,4 +42,4 @@
   Tests
   
 ### VIDEO GAME PUBLISHING
-  Itch.io
+  [Itch.io](https://itch.io/)
