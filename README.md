@@ -1,4 +1,4 @@
-# Game Development with p5.js
+# Game Development with p5.js (work in progress)
 ## Index
 
 ### INTRODUCTION
