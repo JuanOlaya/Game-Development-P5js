@@ -1,7 +1,7 @@
 # Game Development with p5.js (+Processing) 
 ## Index
 
-### INTRODUCCTION
+### INTRODUCTION
 
   [p5.js Web Editor](https://editor.p5js.org/)
   Open an account
