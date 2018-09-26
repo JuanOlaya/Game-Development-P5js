@@ -49,3 +49,6 @@
   
 ### VIDEO GAME PUBLISHING
   [Itch.io](https://itch.io/)
+  
+### STUDENT PROJECTS
+
